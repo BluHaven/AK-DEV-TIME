@@ -1,0 +1,15 @@
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    color: white;
+}
+
+    a:hover {
+  background-color: red;
+}
+
+i:hover {
+  background-color: blue;
+}
